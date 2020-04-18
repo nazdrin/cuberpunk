@@ -1,5 +1,5 @@
 import telebot
-import conf
+
 import random
 from telebot.types import ReplyKeyboardMarkup
 import time
